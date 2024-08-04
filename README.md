@@ -36,5 +36,6 @@ The system successfully provided timely and accurate predictions for severe weat
 ### DATA228_Project_EDA.ipynb: Exploratory data analysis process.
 ### DATA228_Project_ML_Models.ipynb: Historical data preprocessing and machine learning model development.
 ### DATA228_Project_ML_Models_for_local_use.py: Converts machine learning models for local use.
+### DATA228_Project_Report.pdf: Project Report
 ### DATA228_Project_Producer.ipynb: Kafka producer for real-time data ingestion.
 ### DATA228_Project_Consumer.ipynb: Kafka consumer for real-time data processing and prediction.
